@@ -43,9 +43,9 @@
         "url": "https://fonts.googleapis.com/css?family=Jost:100,200,300,400,500,600,700,800,900,100i,200i,300i,400i,500i,600i,700i,800i,900i"
       }
     ],
-    "imageResize": false,
+    "imageResize": true,
     "favicon": false,
-    "mbrsiteDomain": "lhiw60pzb9",
+    "mbrsiteDomain": "foxglnmun6",
     "robotsSwitcher": true,
     "sitemapSwitcher": true,
     "sitemapSwitcherAuto": "on",
@@ -63,9 +63,9 @@
       "icon": "@PROJECT_PATH@/assets/images/imageedit-1-4861547413-512x512.png",
       "themeColor": "#2f9c98"
     },
-    "cssOptimize": false,
-    "lazyLoad": false,
-    "lazyType": "nothing",
+    "cssOptimize": true,
+    "lazyLoad": true,
+    "lazyType": "blur",
     "pwa-switcher": true
   },
   "pages": {
