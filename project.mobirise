@@ -43,16 +43,16 @@
         "url": "https://fonts.googleapis.com/css?family=Jost:100,200,300,400,500,600,700,800,900,100i,200i,300i,400i,500i,600i,700i,800i,900i"
       }
     ],
-    "imageResize": true,
+    "imageResize": false,
     "favicon": false,
-    "mbrsiteDomain": "wueeug88wb",
+    "mbrsiteDomain": "rhi90lq6k6",
     "robotsSwitcher": true,
     "sitemapSwitcher": true,
     "sitemapSwitcherAuto": "on",
     "siteUrl": "https://larrypotterlandscape.com",
     "cookiesAlert": false,
     "gdpr": false,
-    "uniqCompNum": 47,
+    "uniqCompNum": 48,
     "versionPublish": "5.3.0",
     "screenshot": "screenshot.png",
     "admin-white-label": true,
@@ -66,7 +66,9 @@
     "cssOptimize": true,
     "lazyLoad": false,
     "lazyType": "blur",
-    "pwa-switcher": true
+    "pwa-switcher": true,
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
     "index.html": {
@@ -841,45 +843,6 @@
           "_global": false,
           "_once": false,
           "_params": {}
-        },
-        {
-          "_params": {
-            "account": "larrypotterlandscape",
-            "showTitle": true,
-            "layoutGridRadio": true,
-            "imagesPerRowGrid": "1",
-            "rows": "1",
-            "showMoreButton": true,
-            "layoutSliderRadio": false,
-            "imagesPerRowSlider": 4,
-            "spacing": 5,
-            "fullWidth": false,
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgColorRadio": true,
-            "bgColor": "#2f9c98",
-            "bgImageRadio": false,
-            "bgImage": "@ADDONS_PATH@/instagram-feed/instagram-feed-block/assets/instagram-background.jpg",
-            "overlay": true,
-            "overlayColor": "#2f9c98",
-            "overlayOpacity": 0.6
-          },
-          "title": "<b>Gallery</b>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-md display-4 btn-white\" href=\"#\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,-mbrLink\">Show more</a>",
-          "display2": "display-2",
-          "display4": "display-4",
-          "alias": "instagram-feed",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "instagram-feed-block",
-          "_sourceTheme": "mobirise5",
-          "_anchor": "instagram-feed-block-1a",
-          "_styles": {
-            ".inst__title": {
-              "color": "#ffffff"
-            }
-          }
         },
         {
           "alias": false,
