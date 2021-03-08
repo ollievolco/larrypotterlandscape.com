@@ -1192,9 +1192,6 @@ a {
 .cid-sqVZCMRdOM .mbr-section-subtitle {
   color: #2f9c98;
 }
-#instagram-feed-block-1b .inst__title {
-  color: #ffffff;
-}
 .cid-sqVSOb3Pqc {
   padding-top: 75px;
   padding-bottom: 75px;
@@ -1312,6 +1309,12 @@ a {
 }
 .cid-sqVSOb3Pqc P {
   text-align: center;
+  color: #ffffff;
+}
+.cid-sqVSOb3Pqc LABEL {
+  color: #ffffff;
+}
+#instagram-feed-block-1b .inst__title {
   color: #ffffff;
 }
 .cid-sqUPZaMYr4 {
