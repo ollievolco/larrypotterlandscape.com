@@ -1,2 +1,0 @@
-# larrypotterlandscape.com
-larrypotterlandscape.com
