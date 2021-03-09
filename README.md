@@ -1,3 +1,3 @@
 # larrypotterlandscape.com
 larrypotterlandscape.com <br>
-Version: 5.1
+Version: 5.2
