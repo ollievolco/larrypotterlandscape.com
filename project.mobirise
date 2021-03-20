@@ -45,7 +45,7 @@
     ],
     "imageResize": false,
     "favicon": false,
-    "mbrsiteDomain": "oxqzwos9l9",
+    "mbrsiteDomain": "6asvfxpchf",
     "robotsSwitcher": true,
     "sitemapSwitcher": true,
     "sitemapSwitcherAuto": "on",
@@ -60,7 +60,7 @@
     "PWA": {
       "enabled": true,
       "name": "",
-      "icon": "@PROJECT_PATH@/assets/images/imageedit-1-4861547413-512x512.png",
+      "icon": "@PROJECT_PATH@/assets/images/imageedit-1-512x512.png",
       "themeColor": "#2f9c98"
     },
     "cssOptimize": true,
