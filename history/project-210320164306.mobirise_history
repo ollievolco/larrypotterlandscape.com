@@ -26,7 +26,7 @@
         "isRoundedButtons": true,
         "isGhostButtonBorder": true,
         "underlinedLinks": false,
-        "isAnimatedOnScroll": true,
+        "isAnimatedOnScroll": false,
         "isScrollToTopButton": true
       },
       "additionalSetColors": [
@@ -43,9 +43,9 @@
         "url": "https://fonts.googleapis.com/css?family=Jost:100,200,300,400,500,600,700,800,900,100i,200i,300i,400i,500i,600i,700i,800i,900i"
       }
     ],
-    "imageResize": true,
+    "imageResize": false,
     "favicon": false,
-    "mbrsiteDomain": "7vlc1x8mop",
+    "mbrsiteDomain": "ipsohyp26q",
     "robotsSwitcher": true,
     "sitemapSwitcher": true,
     "sitemapSwitcherAuto": "on",
@@ -63,8 +63,8 @@
       "icon": "@PROJECT_PATH@/assets/images/imageedit-1-512x512.png",
       "themeColor": "#2f9c98"
     },
-    "cssOptimize": true,
-    "lazyLoad": true,
+    "cssOptimize": false,
+    "lazyLoad": false,
     "lazyType": "blur",
     "pwa-switcher": true,
     "witsec-mailform-to": "spam@stage4000.com",
@@ -84,7 +84,9 @@
     "witsec-mailform-recaptcha-secretkey": "",
     "witsec-mailform-recaptcha-score": "0.5",
     "witsec-mailform-disable-button": false,
-    "witsec-mailform": false
+    "witsec-mailform": false,
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
     "index.html": {
