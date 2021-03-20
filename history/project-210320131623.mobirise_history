@@ -755,7 +755,7 @@
               "background-color": "@bg-value"
             },
             "& when (@bg-type = 'image')": {
-              "background-image": "url(\"../../../assets/images/DSC02237.jpg\")"
+              "background-image": "url(@bg-value)"
             },
             "& when not (@spacing)": {
               ".row": {
@@ -1029,9 +1029,7 @@
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_PHPplaceholders": [],
-          "_JSplaceholders": []
+          "_params": {}
         },
         {
           "alias": "formbuilder",
