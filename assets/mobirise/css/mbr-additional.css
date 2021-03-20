@@ -1255,7 +1255,7 @@ a {
   z-index: 2;
 }
 .cid-sseO7vH9Oq .card:hover img {
-  filter: blur(0px);
+  filter: blur(2px);
 }
 .cid-sseO7vH9Oq .card:hover .mbr-iconfont {
   opacity: 1;
