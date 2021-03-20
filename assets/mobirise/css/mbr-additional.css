@@ -1497,20 +1497,20 @@ a {
 .cid-sqVSOb3Pqc .field-input::-webkit-input-placeholder,
 .cid-sqVSOb3Pqc .form-control::-webkit-input-placeholder,
 .cid-sqVSOb3Pqc .field-input::-webkit-input-placeholder {
-  color: #bbbbbb;
+  color: #2f9c98;
 }
 .cid-sqVSOb3Pqc .form-control:-moz-placeholder,
 .cid-sqVSOb3Pqc .field-input:-moz-placeholder,
 .cid-sqVSOb3Pqc .form-control:-moz-placeholder,
 .cid-sqVSOb3Pqc .field-input:-moz-placeholder {
-  color: #bbbbbb;
+  color: #2f9c98;
 }
 .cid-sqVSOb3Pqc .form-control:hover,
 .cid-sqVSOb3Pqc .field-input:hover,
 .cid-sqVSOb3Pqc .form-control:focus,
 .cid-sqVSOb3Pqc .field-input:focus {
   background-color: #ffffff;
-  border-color: #ffffff;
+  border-color: #000000;
   color: #2f9c98;
   box-shadow: none;
   outline: none;
@@ -1523,7 +1523,7 @@ a {
 .cid-sqVSOb3Pqc .field-input:hover::-webkit-input-placeholder,
 .cid-sqVSOb3Pqc .form-control:focus::-webkit-input-placeholder,
 .cid-sqVSOb3Pqc .field-input:focus::-webkit-input-placeholder {
-  color: #bbbbbb;
+  color: #2f9c98;
 }
 .cid-sqVSOb3Pqc .form-control:hover:-moz-placeholder,
 .cid-sqVSOb3Pqc .field-input:hover:-moz-placeholder,
@@ -1533,12 +1533,12 @@ a {
 .cid-sqVSOb3Pqc .field-input:hover:-moz-placeholder,
 .cid-sqVSOb3Pqc .form-control:focus:-moz-placeholder,
 .cid-sqVSOb3Pqc .field-input:focus:-moz-placeholder {
-  color: #bbbbbb;
+  color: #2f9c98;
 }
 .cid-sqVSOb3Pqc .jq-number__spin:hover,
 .cid-sqVSOb3Pqc .jq-number__spin:focus {
   background-color: #ffffff;
-  border-color: #ffffff;
+  border-color: #000000;
   color: #ffffff;
   box-shadow: none;
   outline: none;
