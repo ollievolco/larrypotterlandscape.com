@@ -667,7 +667,8 @@
             },
             ".card-wrapper": {
               "background": "@cardbg",
-              "padding": "3rem",
+              "margin": "0",
+              "padding": "1rem",
               "&:hover": {
                 "background": "linear-gradient(to left, @secondaryColor, @primaryColor)"
               }
@@ -715,6 +716,9 @@
                 },
                 ".card-title, .mbr-subtitle": {
                   "color": "@hoverColor !important"
+                },
+                ".card-wrapper": {
+                  "background": "linear-gradient(to left, @secondaryColor, @primaryColor)"
                 }
               }
             },
