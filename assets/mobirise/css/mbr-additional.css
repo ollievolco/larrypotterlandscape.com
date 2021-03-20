@@ -1142,7 +1142,8 @@ a {
 }
 .cid-ssdDzk8gz0 .card-wrapper {
   background: #ffffff;
-  padding: 3rem;
+  margin: 0;
+  padding: 1rem;
 }
 .cid-ssdDzk8gz0 .card-wrapper:hover {
   background: linear-gradient(to left, #ffffff, #2f9c98);
@@ -1193,6 +1194,9 @@ a {
 .cid-ssdDzk8gz0 .card:hover .card-title,
 .cid-ssdDzk8gz0 .card:hover .mbr-subtitle {
   color: #ffffff !important;
+}
+.cid-ssdDzk8gz0 .card:hover .card-wrapper {
+  background: linear-gradient(to left, #ffffff, #2f9c98);
 }
 @media (min-width: 1600px) {
   .cid-ssdDzk8gz0 .card {
